@@ -1,0 +1,9 @@
+body {
+  font-family: "Apple Color Emoji", "Segoe UI Emoji", sans-serif;
+}
+
+button {
+  background-color: #5c5cf0;
+  color: white;
+  border-radius: 10px;
+}
